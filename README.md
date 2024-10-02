@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @jesusarrieta737
-- 👀 I’m interested in learning more programming language 
-- 🌱 I’m currently learning C++ and starting Python in October
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I'm Jesus
+- 👀 I’m passionate in Information Technology. I enjoy community building, learning new skills, learning different tech and tackling problems.
+- 🌱 I’m currently learning more Programming Languages and Machine Learning.
+- 🌍 Languages I know are C++, SQL, English and Spanish.
+- 📫 Can reach me on Discord and LinkedIn.
 - ⚡ Fun fact: ...
+
+- Get in Touch 📬
+- Discord: SM737
+- LinkedIn: www.linkedin.com/in/jesus-arrieta-15005624a
 
 <!---
 jesusarrieta737/jesusarrieta737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
