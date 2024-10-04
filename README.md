@@ -7,7 +7,7 @@
 
 - Get in Touch 📬
 - Discord: SM737
-- LinkedIn: https://www.linkedin.com/in/jesus-arrieta-15005624a
+- LinkedIn: www.linkedin.com/in/jesus-arrieta-15005624a
 
 <!---
 jesusarrieta737/jesusarrieta737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
